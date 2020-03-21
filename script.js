@@ -1,0 +1,1 @@
+const imgGallery = document.querySelector('#img-gallery');
